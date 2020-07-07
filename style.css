@@ -1,0 +1,32 @@
+img {
+    width: 100px;
+    height: auto;
+}
+
+@media (max-width: 576px) {
+    img {
+        display: flex;
+        width: 500px;
+        height: auto;
+    }
+
+
+
+
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  
+  .footer,
+  .push {
+    height: 50px;
+  }
+
+
+
+  
